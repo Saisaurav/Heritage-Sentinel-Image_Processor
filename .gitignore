@@ -1,0 +1,8 @@
+﻿raw_images/
+processed/
+data/tours/
+data/status/
+__pycache__/
+*.pyc
+venv/
+.env
