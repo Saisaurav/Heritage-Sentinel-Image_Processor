@@ -1,0 +1,284 @@
+{
+  "session_id": "run_04f5541087",
+  "tour_id": "TEST1",
+  "started_at": 1782296810439.8945,
+  "paused": false,
+  "current_index": 3,
+  "waypoints": [
+    {
+      "id": "waypoint_001",
+      "name": "Waypoint 1",
+      "status": "done",
+      "images_captured": 7,
+      "images_total": 7,
+      "images_uploaded": 7
+    },
+    {
+      "id": "waypoint_002",
+      "name": "Waypoint 2",
+      "status": "done",
+      "images_captured": 6,
+      "images_total": 6,
+      "images_uploaded": 6
+    },
+    {
+      "id": "waypoint_003",
+      "name": "Waypoint 3",
+      "status": "done",
+      "images_captured": 6,
+      "images_total": 6,
+      "images_uploaded": 6
+    },
+    {
+      "id": "waypoint_004",
+      "name": "Waypoint 4",
+      "status": "done",
+      "images_captured": 6,
+      "images_total": 6,
+      "images_uploaded": 6
+    }
+  ],
+  "connection": {
+    "online": true,
+    "rssi": -60
+  },
+  "battery": 87.8,
+  "camera": "ready",
+  "events": [
+    {
+      "id": "9a595005561c48ae94063c572f5ba870",
+      "ts": 1782296810439.8945,
+      "level": "info",
+      "msg": "Session run_04f5541087 started"
+    },
+    {
+      "id": "ec9c8aa4b1ce42158a98417ceb18ea66",
+      "ts": 1782296859475.5303,
+      "level": "info",
+      "msg": "Arrived at waypoint_001 (Waypoint 1)"
+    },
+    {
+      "id": "061ffde96be24555ad27ffbccf04f009",
+      "ts": 1782296859859.6099,
+      "level": "info",
+      "msg": "Captured P1060369.JPG (1/7)"
+    },
+    {
+      "id": "4202841bcbba49e292dcb4966ea45196",
+      "ts": 1782296861224.9604,
+      "level": "info",
+      "msg": "Captured P1060370.JPG (2/7)"
+    },
+    {
+      "id": "049209ec919e44f69bde7481c4e01eb8",
+      "ts": 1782296862562.3298,
+      "level": "info",
+      "msg": "Captured P1060371.JPG (3/7)"
+    },
+    {
+      "id": "3d1920cce81f4f00a6b3d559deca5e67",
+      "ts": 1782296863985.6736,
+      "level": "info",
+      "msg": "Captured P1060372.JPG (4/7)"
+    },
+    {
+      "id": "974e52765fb14e12a4928d58db972cdc",
+      "ts": 1782296865459.9207,
+      "level": "info",
+      "msg": "Captured P1060373.JPG (5/7)"
+    },
+    {
+      "id": "f7db54523d7342cda988fd92dddaa94a",
+      "ts": 1782296866907.264,
+      "level": "info",
+      "msg": "Captured P1060374.JPG (6/7)"
+    },
+    {
+      "id": "b0f61c1f64a74b14820dffc53afdacbf",
+      "ts": 1782296868385.4807,
+      "level": "info",
+      "msg": "Captured P1060375.JPG (7/7)"
+    },
+    {
+      "id": "c295b78a7d984e26938b11c5b3a5ec6c",
+      "ts": 1782296869454.773,
+      "level": "info",
+      "msg": "Starting panorama stitching for waypoint_001"
+    },
+    {
+      "id": "45213d11e9b94c9094cf0aca0e8b6dca",
+      "ts": 1782296869577.9214,
+      "level": "success",
+      "msg": "Completed waypoint_001"
+    },
+    {
+      "id": "c6a7fd9f4df94094a1363e7df28d5920",
+      "ts": 1782296869671.0813,
+      "level": "info",
+      "msg": "Arrived at waypoint_002 (Waypoint 2)"
+    },
+    {
+      "id": "8d1239c6f18248038a10d661844e5fd7",
+      "ts": 1782296870070.9048,
+      "level": "info",
+      "msg": "Captured P1060376.JPG (1/6)"
+    },
+    {
+      "id": "10c2ea03b1a545199867261f40e26853",
+      "ts": 1782296871477.7922,
+      "level": "info",
+      "msg": "Captured P1060377.JPG (2/6)"
+    },
+    {
+      "id": "1d8aec32c3f94dfaae37339ad6438448",
+      "ts": 1782296872870.5078,
+      "level": "info",
+      "msg": "Captured P1060378.JPG (3/6)"
+    },
+    {
+      "id": "a2af5502f064460fbe28c1d8864bf691",
+      "ts": 1782296874414.6748,
+      "level": "info",
+      "msg": "Captured P1060379.JPG (4/6)"
+    },
+    {
+      "id": "1ca3125e93904f89ae82b27ba03857f8",
+      "ts": 1782296875939.9587,
+      "level": "info",
+      "msg": "Captured P1060380.JPG (5/6)"
+    },
+    {
+      "id": "6473f6e0c08e433c9c9f4b385bb8b007",
+      "ts": 1782296877415.7964,
+      "level": "info",
+      "msg": "Captured P1060381.JPG (6/6)"
+    },
+    {
+      "id": "a16a22155b024517907b1090dcff6e0b",
+      "ts": 1782296878510.136,
+      "level": "info",
+      "msg": "Starting panorama stitching for waypoint_002"
+    },
+    {
+      "id": "c8a7ea5f7ad34ec196d3d00e7eb41963",
+      "ts": 1782296878616.869,
+      "level": "success",
+      "msg": "Completed waypoint_002"
+    },
+    {
+      "id": "39d31741a2e9439788f13e6316c5e089",
+      "ts": 1782296878704.529,
+      "level": "info",
+      "msg": "Arrived at waypoint_003 (Waypoint 3)"
+    },
+    {
+      "id": "548339e8331c4de28724fc15523c5adf",
+      "ts": 1782296879127.9824,
+      "level": "info",
+      "msg": "Captured P1060382.JPG (1/6)"
+    },
+    {
+      "id": "913e5a43678f467fb7a9ab79b7226490",
+      "ts": 1782296880850.2014,
+      "level": "info",
+      "msg": "Captured P1060383.JPG (2/6)"
+    },
+    {
+      "id": "1febd92dd4b044b187042c12204e842c",
+      "ts": 1782296882367.1729,
+      "level": "info",
+      "msg": "Captured P1060384.JPG (3/6)"
+    },
+    {
+      "id": "62698cc851a644438cc25eb2a78df4e3",
+      "ts": 1782296883985.1914,
+      "level": "info",
+      "msg": "Captured P1060385.JPG (4/6)"
+    },
+    {
+      "id": "4f6451b5e770464cac55fc8bae22b325",
+      "ts": 1782296885605.5527,
+      "level": "info",
+      "msg": "Captured P1060386.JPG (5/6)"
+    },
+    {
+      "id": "bf871dde300b4a6babe8861d4987d632",
+      "ts": 1782296887085.3777,
+      "level": "info",
+      "msg": "Captured P1060387.JPG (6/6)"
+    },
+    {
+      "id": "ce22438b43b54fdd8240c83a0cdd35ba",
+      "ts": 1782296888173.8577,
+      "level": "info",
+      "msg": "Starting panorama stitching for waypoint_003"
+    },
+    {
+      "id": "caea1d51ba894ac99956cd0a450f5ff6",
+      "ts": 1782296888349.5413,
+      "level": "success",
+      "msg": "Completed waypoint_003"
+    },
+    {
+      "id": "79093cee7e2a43e0874adc15d2707354",
+      "ts": 1782296888524.1587,
+      "level": "info",
+      "msg": "Arrived at waypoint_004 (Waypoint 4)"
+    },
+    {
+      "id": "6607d27f2e0b419d8d0a1ae7a7961968",
+      "ts": 1782296888944.943,
+      "level": "info",
+      "msg": "Captured P1060388.JPG (1/6)"
+    },
+    {
+      "id": "8fdb557f861c48ac9a5475e5269e2aed",
+      "ts": 1782296890382.2441,
+      "level": "info",
+      "msg": "Captured P1060389.JPG (2/6)"
+    },
+    {
+      "id": "38bdf64b34904716af207bda634061a0",
+      "ts": 1782296891861.5647,
+      "level": "info",
+      "msg": "Captured P1060390.JPG (3/6)"
+    },
+    {
+      "id": "e22c8c5d63ce4ff79036ec9e53f1acde",
+      "ts": 1782296893505.8464,
+      "level": "info",
+      "msg": "Captured P1060391.JPG (4/6)"
+    },
+    {
+      "id": "5d62ddd7e53f498c9af3f4a6e2fd6067",
+      "ts": 1782296895000.422,
+      "level": "info",
+      "msg": "Captured P1060392.JPG (5/6)"
+    },
+    {
+      "id": "e0a1b13a8bb9405b9aa689933f9ea38c",
+      "ts": 1782296896406.8079,
+      "level": "info",
+      "msg": "Captured P1060393.JPG (6/6)"
+    },
+    {
+      "id": "aba595fd2f4847088f08be0223e55a02",
+      "ts": 1782296897521.3403,
+      "level": "info",
+      "msg": "Starting panorama stitching for waypoint_004"
+    },
+    {
+      "id": "b05d78a1c87e462695c78ec9bea1b0bf",
+      "ts": 1782296897639.9587,
+      "level": "success",
+      "msg": "Completed waypoint_004"
+    },
+    {
+      "id": "e9494da5c6cf456080723605c53ccccb",
+      "ts": 1782296897710.1326,
+      "level": "success",
+      "msg": "Route complete - all waypoints done"
+    }
+  ],
+  "last_error": null
+}

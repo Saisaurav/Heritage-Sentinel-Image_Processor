@@ -1,0 +1,10 @@
+{
+  "tour_id": "TEST",
+  "name": "Test",
+  "waypoints": [
+    "waypoint_001",
+    "waypoint_002",
+    "waypoint_003",
+    "waypoint_004"
+  ]
+}

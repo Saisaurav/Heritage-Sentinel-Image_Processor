@@ -1,0 +1,56 @@
+{
+  "waypoint_001": {
+    "id": "waypoint_001",
+    "mapPos": [
+      360,
+      200
+    ],
+    "links": [
+      "waypoint_002"
+    ],
+    "name": "Waypoint 1",
+    "isArtifact": false,
+    "artifactIds": []
+  },
+  "waypoint_002": {
+    "id": "waypoint_002",
+    "mapPos": [
+      480,
+      200
+    ],
+    "links": [
+      "waypoint_001",
+      "waypoint_003",
+      "waypoint_004"
+    ],
+    "name": "Waypoint 2",
+    "isArtifact": true,
+    "artifactIds": []
+  },
+  "waypoint_003": {
+    "id": "waypoint_003",
+    "mapPos": [
+      480,
+      120
+    ],
+    "links": [
+      "waypoint_002"
+    ],
+    "name": "Waypoint 3",
+    "isArtifact": false,
+    "artifactIds": []
+  },
+  "waypoint_004": {
+    "id": "waypoint_004",
+    "mapPos": [
+      480,
+      280
+    ],
+    "links": [
+      "waypoint_002"
+    ],
+    "name": "Waypoint 4",
+    "isArtifact": false,
+    "artifactIds": []
+  }
+}

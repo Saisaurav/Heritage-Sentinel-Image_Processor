@@ -1,0 +1,94 @@
+{
+  "session_id": "art_c477c06b16",
+  "tour_id": "TEST2",
+  "artifact_id": "artifact_waypoint_002",
+  "waypoint_id": "waypoint_002",
+  "started_at": 1782315236282.6177,
+  "step": "complete",
+  "images_captured": 6,
+  "images_total": 6,
+  "images_uploaded": 6,
+  "ring": 4,
+  "glb_url": null,
+  "last_error": null,
+  "events": [
+    {
+      "id": "c1b7a21f24b447618195c9c0781f67f7",
+      "ts": 1782315236282.6177,
+      "level": "info",
+      "msg": "Artifact session art_c477c06b16 started for artifact_waypoint_002"
+    },
+    {
+      "id": "4ed1b1b73b7e4c36a982b54998257d47",
+      "ts": 1782315244443.2515,
+      "level": "info",
+      "msg": "Artifact scan started for artifact_waypoint_002"
+    },
+    {
+      "id": "6d5d383ef941432fb19806a978187801",
+      "ts": 1782315244460.1797,
+      "level": "info",
+      "msg": "Ring 1 started"
+    },
+    {
+      "id": "44060b68ed194e019a318d8a9be774dc",
+      "ts": 1782315247153.6228,
+      "level": "info",
+      "msg": "Ring 1 complete (2 images)"
+    },
+    {
+      "id": "f776c45444214f7e83bbfeba118e877e",
+      "ts": 1782315247202.9219,
+      "level": "info",
+      "msg": "Ring 2 started"
+    },
+    {
+      "id": "a96f88a9a5844205a045121d0840f37d",
+      "ts": 1782315249923.8752,
+      "level": "info",
+      "msg": "Ring 2 complete (2 images)"
+    },
+    {
+      "id": "a0f3ce3d4c524bec959eb2829c51fc22",
+      "ts": 1782315249964.2424,
+      "level": "info",
+      "msg": "Ring 3 started"
+    },
+    {
+      "id": "f9300caad6a047a79be4c643a826dd66",
+      "ts": 1782315252752.4558,
+      "level": "info",
+      "msg": "Ring 3 complete (2 images)"
+    },
+    {
+      "id": "8c79d4e78638415c88a1f23c33632af2",
+      "ts": 1782315252839.9746,
+      "level": "info",
+      "msg": "All images uploaded - triggering Meshroom"
+    },
+    {
+      "id": "cbca82756eda44e2982c4918432f0efd",
+      "ts": 1782315252907.1782,
+      "level": "info",
+      "msg": "Starting Meshroom photogrammetry\u2026"
+    },
+    {
+      "id": "f12d9443d99b4bee9bd4fb7eaf560a91",
+      "ts": 1782315253018.0916,
+      "level": "warning",
+      "msg": "Photogrammetry failed (No textured mesh found under C:\\Users\\saman\\OneDrive\\Desktop\\WRO\\Heritage-Sentinel-Image_Processor\\processed\\photogrammetry_cache\\TEST2\\artifact_waypoint_002). Using placeholder GLB."
+    },
+    {
+      "id": "3588790fcf7141de96f7498870d39a3e",
+      "ts": 1782315253039.2507,
+      "level": "info",
+      "msg": "Minimal placeholder GLB written."
+    },
+    {
+      "id": "744f78af7edb4bdea5b0b7cd4caf7a57",
+      "ts": 1782315257899.348,
+      "level": "success",
+      "msg": "Photogrammetry complete - "
+    }
+  ]
+}

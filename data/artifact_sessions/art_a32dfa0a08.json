@@ -1,0 +1,82 @@
+{
+  "session_id": "art_a32dfa0a08",
+  "tour_id": "TEST2",
+  "artifact_id": "artifact_waypoint_002",
+  "waypoint_id": "waypoint_002",
+  "started_at": 1782312916928.1716,
+  "step": "complete",
+  "images_captured": 6,
+  "images_total": 6,
+  "images_uploaded": 6,
+  "ring": 4,
+  "glb_url": "/artifacts/TEST2/artifact_waypoint_002.glb",
+  "last_error": null,
+  "events": [
+    {
+      "id": "ecf6a68e65f44ba19de8ef38e98b2550",
+      "ts": 1782312916928.1716,
+      "level": "info",
+      "msg": "Artifact session art_a32dfa0a08 started for artifact_waypoint_002"
+    },
+    {
+      "id": "5531c9ee82cf487491ff0aa208a80bfd",
+      "ts": 1782312941536.6018,
+      "level": "info",
+      "msg": "Artifact scan started for artifact_waypoint_002"
+    },
+    {
+      "id": "cb96e64c25324303b32a2a76e99590ff",
+      "ts": 1782312941591.5562,
+      "level": "info",
+      "msg": "Ring 1 started"
+    },
+    {
+      "id": "631d5e06eea5445285ddcb94d782a386",
+      "ts": 1782312944363.05,
+      "level": "info",
+      "msg": "Ring 1 complete (2 images)"
+    },
+    {
+      "id": "8780bbdf0aa14a53be4e525a16fb13cb",
+      "ts": 1782312944412.7349,
+      "level": "info",
+      "msg": "Ring 2 started"
+    },
+    {
+      "id": "733f5e270eaa44e49c68f8c17d6ce7a4",
+      "ts": 1782312947250.7913,
+      "level": "info",
+      "msg": "Ring 2 complete (2 images)"
+    },
+    {
+      "id": "a196866807404db38762d00574a339d2",
+      "ts": 1782312950088.225,
+      "level": "info",
+      "msg": "Ring 3 complete (2 images)"
+    },
+    {
+      "id": "ee83f43e1fc04fbba656d355daf6c63f",
+      "ts": 1782312950132.8223,
+      "level": "info",
+      "msg": "All images uploaded - triggering Meshroom"
+    },
+    {
+      "id": "b35a847d9c3846fa8d9802473a0df905",
+      "ts": 1782312950158.0393,
+      "level": "info",
+      "msg": "Starting Meshroom photogrammetry\u2026"
+    },
+    {
+      "id": "ec8838b985af4e1a8f255b7ae112872c",
+      "ts": 1782312953583.2302,
+      "level": "success",
+      "msg": "GLB ready: /artifacts/TEST2/artifact_waypoint_002.glb"
+    },
+    {
+      "id": "38a1725426ca4490a1bc31438422b357",
+      "ts": 1782312955235.6516,
+      "level": "success",
+      "msg": "Photogrammetry complete - /artifacts/TEST2/artifact_waypoint_002.glb"
+    }
+  ]
+}

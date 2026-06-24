@@ -1,0 +1,166 @@
+{
+  "session_id": "art_5195eae23a",
+  "tour_id": "TEST2",
+  "artifact_id": "artifact_waypoint_002",
+  "waypoint_id": "waypoint_002",
+  "started_at": 1782298242281.061,
+  "step": "meshroom",
+  "images_captured": 6,
+  "images_total": 6,
+  "images_uploaded": 6,
+  "ring": 4,
+  "glb_url": null,
+  "last_error": null,
+  "events": [
+    {
+      "id": "bc55a6fc87114c4688adc0fa9e0714cc",
+      "ts": 1782298242281.061,
+      "level": "info",
+      "msg": "Artifact session art_5195eae23a started for artifact_waypoint_002"
+    },
+    {
+      "id": "d9e8bde9dbc0461b989dbf9081b15d82",
+      "ts": 1782298318545.878,
+      "level": "info",
+      "msg": "Artifact scan started for artifact_waypoint_002"
+    },
+    {
+      "id": "5764ab296ede40c29b7316fa71fcb6fa",
+      "ts": 1782298318603.866,
+      "level": "info",
+      "msg": "Ring 1 started"
+    },
+    {
+      "id": "9d45437e11fc43859cfedbcab6dc914d",
+      "ts": 1782298321403.6565,
+      "level": "info",
+      "msg": "Ring 1 complete (2 images)"
+    },
+    {
+      "id": "c1752311d7d644cf81427aa5d594cc89",
+      "ts": 1782298321452.8672,
+      "level": "info",
+      "msg": "Ring 2 started"
+    },
+    {
+      "id": "665b7a66b6484e08a585f263639ae5b1",
+      "ts": 1782298324285.8088,
+      "level": "info",
+      "msg": "Ring 2 complete (2 images)"
+    },
+    {
+      "id": "fd2edede87b44d389afaa9de0e5b00b1",
+      "ts": 1782298324349.222,
+      "level": "info",
+      "msg": "Ring 3 started"
+    },
+    {
+      "id": "f46850dde96e49959dd5656cabcba17b",
+      "ts": 1782298327213.9585,
+      "level": "info",
+      "msg": "Ring 3 complete (2 images)"
+    },
+    {
+      "id": "e8b33ac6b0fc4a819d18a348748fcd6e",
+      "ts": 1782298327329.6255,
+      "level": "info",
+      "msg": ""
+    },
+    {
+      "id": "c19e462bb1804e169630218cad0ab2ff",
+      "ts": 1782298502390.724,
+      "level": "info",
+      "msg": "Artifact scan started for artifact_waypoint_002"
+    },
+    {
+      "id": "afcb38b1e62f4bca8f482fe8ab86e55a",
+      "ts": 1782298502419.5925,
+      "level": "info",
+      "msg": "Ring 1 started"
+    },
+    {
+      "id": "a24a5fd73c2c4064b2fa526504d0f68a",
+      "ts": 1782298505052.2498,
+      "level": "info",
+      "msg": "Ring 1 complete (2 images)"
+    },
+    {
+      "id": "8723a834ba98429287c77da30d7c83dc",
+      "ts": 1782298505091.459,
+      "level": "info",
+      "msg": "Ring 2 started"
+    },
+    {
+      "id": "89f4e4de95ac4ca9b2d39181a2b728eb",
+      "ts": 1782298507814.3342,
+      "level": "info",
+      "msg": "Ring 2 complete (2 images)"
+    },
+    {
+      "id": "c94f1136b38b4aba8af6d5693d8f73bd",
+      "ts": 1782298507840.361,
+      "level": "info",
+      "msg": "Ring 3 started"
+    },
+    {
+      "id": "ae9e7a2393754d30bc29ddf7c5c77641",
+      "ts": 1782298510447.5066,
+      "level": "info",
+      "msg": "Ring 3 complete (2 images)"
+    },
+    {
+      "id": "a6f80e0249b04e65b493d677eb3030be",
+      "ts": 1782298510534.2507,
+      "level": "info",
+      "msg": ""
+    },
+    {
+      "id": "c94b5d290eea437499afb4f0f59f1c8d",
+      "ts": 1782298601925.9863,
+      "level": "info",
+      "msg": "Artifact scan started for artifact_waypoint_002"
+    },
+    {
+      "id": "61792b95405e428eabe5d0bd5daf7211",
+      "ts": 1782298601966.9263,
+      "level": "info",
+      "msg": "Ring 1 started"
+    },
+    {
+      "id": "fcaabb7df0824a1c9178b2931a49501b",
+      "ts": 1782298604613.2139,
+      "level": "info",
+      "msg": "Ring 1 complete (2 images)"
+    },
+    {
+      "id": "4bc41e6878e447538d64ae584a408422",
+      "ts": 1782298604636.751,
+      "level": "info",
+      "msg": "Ring 2 started"
+    },
+    {
+      "id": "f14e972b73ba40b6823ab4f249c63804",
+      "ts": 1782298607277.7542,
+      "level": "info",
+      "msg": "Ring 2 complete (2 images)"
+    },
+    {
+      "id": "611273c2e57c4a3480fefec49fd1e235",
+      "ts": 1782298607337.5781,
+      "level": "info",
+      "msg": "Ring 3 started"
+    },
+    {
+      "id": "ae249f1891134b72956ab6bf6db5de28",
+      "ts": 1782298610164.1,
+      "level": "info",
+      "msg": "Ring 3 complete (2 images)"
+    },
+    {
+      "id": "22cd5802246b4882ae1fbf6fa5d7d93e",
+      "ts": 1782298610282.9536,
+      "level": "info",
+      "msg": ""
+    }
+  ]
+}

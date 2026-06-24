@@ -1,0 +1,41 @@
+{
+  "roman_bust": {
+    "id": "roman_bust",
+    "name": "Roman Bust",
+    "description": "Test artifact for virtual tour development.",
+    "origin": "Ancient Rome",
+    "material": "Marble",
+    "acquisition": "Donated 1982",
+    "glb": null
+  },
+  "artifact_waypoint_004": {
+    "id": "artifact_waypoint_004",
+    "name": "wow",
+    "description": "Test",
+    "origin": "ur mom",
+    "material": "human skin",
+    "acquisition": "theft",
+    "glb": null
+  },
+  "artifact_waypoint_001": {
+    "id": "artifact_waypoint_001",
+    "name": "Romanian stuff",
+    "description": "stuff",
+    "origin": "romania",
+    "material": "rocks and shi",
+    "acquisition": "theft",
+    "glb": null
+  },
+  "artifact_waypoint_002": {
+    "id": "artifact_waypoint_002",
+    "name": "EVIL TREE",
+    "description": "its evil bruh",
+    "origin": "EVIL LAND",
+    "material": "PURE EVIL",
+    "acquisition": "",
+    "glb": "/artifacts/TEST/artifact_waypoint_002.glb",
+    "period": "9",
+    "dimensions": "yeah",
+    "tags": []
+  }
+}

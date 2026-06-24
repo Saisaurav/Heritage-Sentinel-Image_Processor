@@ -1,0 +1,70 @@
+{
+  "session_id": "art_63ad91e601",
+  "tour_id": "TEST2",
+  "artifact_id": "artifact_waypoint_002",
+  "waypoint_id": "waypoint_002",
+  "started_at": 1782298639707.0815,
+  "step": "meshroom",
+  "images_captured": 6,
+  "images_total": 6,
+  "images_uploaded": 6,
+  "ring": 4,
+  "glb_url": null,
+  "last_error": null,
+  "events": [
+    {
+      "id": "b7703daf40344694a00cafebaf8c59fc",
+      "ts": 1782298639707.0815,
+      "level": "info",
+      "msg": "Artifact session art_63ad91e601 started for artifact_waypoint_002"
+    },
+    {
+      "id": "5c685c8fc4ad46e98de45eb7507faccd",
+      "ts": 1782298651520.4634,
+      "level": "info",
+      "msg": "Artifact scan started for artifact_waypoint_002"
+    },
+    {
+      "id": "20b0ab42c50544dab646983dd711edfa",
+      "ts": 1782298651549.708,
+      "level": "info",
+      "msg": "Ring 1 started"
+    },
+    {
+      "id": "61411d7145e54c2d98da81e6f0c83379",
+      "ts": 1782298654199.3242,
+      "level": "info",
+      "msg": "Ring 1 complete (2 images)"
+    },
+    {
+      "id": "2a693f807d9a40c38b92e4b045286094",
+      "ts": 1782298654255.8396,
+      "level": "info",
+      "msg": "Ring 2 started"
+    },
+    {
+      "id": "868f1c6ab98845679f2735fb9e015094",
+      "ts": 1782298657052.6033,
+      "level": "info",
+      "msg": "Ring 2 complete (2 images)"
+    },
+    {
+      "id": "db01e81047f64e809a929079eaf2f451",
+      "ts": 1782298657102.2776,
+      "level": "info",
+      "msg": "Ring 3 started"
+    },
+    {
+      "id": "17fc287dd43d4d44af770d20a472727e",
+      "ts": 1782298659912.7175,
+      "level": "info",
+      "msg": "Ring 3 complete (2 images)"
+    },
+    {
+      "id": "7f619a0d19d84e6a944b2eaef7d89a35",
+      "ts": 1782298660013.0571,
+      "level": "info",
+      "msg": ""
+    }
+  ]
+}

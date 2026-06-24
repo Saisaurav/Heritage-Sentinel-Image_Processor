@@ -1,0 +1,22 @@
+{
+  "session_id": "art_cf4bcd9e50",
+  "tour_id": "TEST2",
+  "artifact_id": "artifact_waypoint_002",
+  "waypoint_id": "waypoint_002",
+  "started_at": 1782312916792.8792,
+  "step": "complete",
+  "images_captured": 0,
+  "images_total": 144,
+  "images_uploaded": 0,
+  "ring": 1,
+  "glb_url": "/artifacts/TEST2/artifact_waypoint_002.glb",
+  "last_error": null,
+  "events": [
+    {
+      "id": "2ee23b6995d84e5c9cfdb5ca40e5f455",
+      "ts": 1782312916792.8792,
+      "level": "info",
+      "msg": "Artifact session art_cf4bcd9e50 started for artifact_waypoint_002"
+    }
+  ]
+}

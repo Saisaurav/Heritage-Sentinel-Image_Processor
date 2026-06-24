@@ -1,0 +1,72 @@
+{
+  "waypoint_001": {
+    "id": "waypoint_001",
+    "mapPos": [
+      360,
+      200
+    ],
+    "links": [
+      "waypoint_002"
+    ],
+    "name": "Waypoint 1",
+    "isArtifact": false,
+    "image": "/panoramas/TEST/waypoint_001.jpg",
+    "panoramaUrl": "/panoramas/TEST/waypoint_001.jpg",
+    "artifactIds": []
+  },
+  "waypoint_002": {
+    "id": "waypoint_002",
+    "mapPos": [
+      480,
+      200
+    ],
+    "links": [
+      "waypoint_001",
+      "waypoint_003",
+      "waypoint_004"
+    ],
+    "name": "Waypoint 2",
+    "isArtifact": true,
+    "image": "/panoramas/TEST/waypoint_002.jpg",
+    "panoramaUrl": "/panoramas/TEST/waypoint_002.jpg",
+    "artifactIds": [
+      "artifact_waypoint_002"
+    ],
+    "artifactMarkers": {
+      "artifact_waypoint_002": {
+        "yaw": 330.554307063573,
+        "pitch": -38.83905485993698
+      }
+    }
+  },
+  "waypoint_003": {
+    "id": "waypoint_003",
+    "mapPos": [
+      480,
+      120
+    ],
+    "links": [
+      "waypoint_002"
+    ],
+    "name": "Waypoint 3",
+    "isArtifact": false,
+    "image": "/panoramas/TEST/waypoint_003.jpg",
+    "panoramaUrl": "/panoramas/TEST/waypoint_003.jpg",
+    "artifactIds": []
+  },
+  "waypoint_004": {
+    "id": "waypoint_004",
+    "mapPos": [
+      480,
+      280
+    ],
+    "links": [
+      "waypoint_002"
+    ],
+    "name": "Waypoint 4",
+    "isArtifact": false,
+    "image": "/panoramas/TEST/waypoint_004.jpg",
+    "panoramaUrl": "/panoramas/TEST/waypoint_004.jpg",
+    "artifactIds": []
+  }
+}
